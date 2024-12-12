@@ -13,26 +13,17 @@ A comprehensive collection of Formula 1 constructor team colors from 2019 to 202
 
 ## Features
 
-- Primary colors from official team branding
-- Secondary colors as carefully selected shades of primary colors
+- Primary and secondary colors for each constructor
 - Hex color codes for precise matching
 - Season-by-season organization
-
-## Color Selection Principles
-
-- Primary colors are taken directly from official F1 team branding
-- Secondary colors are created as lighter or darker shades (15-20% variation) of the primary colors
-- This approach ensures that:
-  - Both drivers from the same team can be distinguished in visualizations
-  - Team identity is maintained through consistent color families
-  - Data remains clear and readable
+- Secondary colors as shades of primary colors for team consistency
 
 ## Usage
 
 Each season's file contains:
 - Constructor names
 - Primary colors from official branding
-- Secondary colors (shades of primary)
+- Secondary colors (15-20% lighter/darker variations of primary)
 - Hex color codes
 - Additional notes and context
 
@@ -43,10 +34,20 @@ Each season's file contains:
 - Color codes are verified against official team assets where possible
 - Some teams may have slight variations in their colors throughout the season
 
+## Legal Disclaimer
+
+This is an unofficial, non-commercial, fan-made collection of color codes. This repository and its maintainers are not affiliated with, endorsed by, or in any way officially connected with Formula One World Championship Limited, Formula 1, Formula One Management, Formula One Licensing B.V., or any of their subsidiaries or affiliates.
+
+F1, FORMULA ONE, FORMULA 1, FIA FORMULA ONE WORLD CHAMPIONSHIP, GRAND PRIX and related marks are trade marks of Formula One Licensing B.V.
+
+All team names, logos, and marks displayed within this repository are the property of their respective owners and are used for identification purposes only.
+
 ## Contributing
 
 Feel free to submit issues or pull requests if you notice any discrepancies or have suggestions for improvements.
 
 ## License
 
-This collection is available for public use. Please credit this repository if you use it in your projects.
+This collection is available for public use under MIT License. However, please note that this only applies to the organization and presentation of the color codes themselves, not to any Formula 1 or team trademarks, which remain the property of their respective owners.
+
+When using this collection, please include appropriate attributions and the legal disclaimer above.
