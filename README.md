@@ -1,97 +1,52 @@
-# Formula 1 Constructors Color Codes (2019-2024)
+# Formula 1 Constructors Color Codes Collection
 
-## 2024 Season
+A comprehensive collection of Formula 1 constructor team colors from 2019 to 2024 seasons. This repository includes both primary and secondary colors for each constructor, making it ideal for data visualization projects, web development, or any F1-related design work.
 
-| Constructor | Primary Color | Secondary Color | Primary Hex | Secondary Hex |
-|------------|---------------|-----------------|-------------|---------------|
-| Mercedes | Turquoise | Silver | #27F4D2 | #00A6B4 |
-| Red Bull Racing | Navy Blue | Purple | #3671C6 | #2B4562 |
-| Ferrari | Red | Dark Red | #E8002D | #BD0026 |
-| McLaren | Papaya | Blue | #FF8700 | #47B2FF |
-| Aston Martin | British Racing Green | Lime | #00665E | #00847F |
-| Alpine | Electric Blue | Pink | #0090FF | #FF0070 |
-| Visa Cash App RB | Navy Blue | White | #6692FF | #1E5BC6 |
-| Stake F1 | Green | Black | #2ED719 | #00AB4E |
-| Williams | Navy Blue | Light Blue | #041E42 | #00A0DE |
-| Haas | White | Red | #FFFFFF | #E6002B |
+## Available Seasons
 
-## 2023 Season
+- [2024 Season](2024-season.md)
+- [2023 Season](2023-season.md)
+- [2022 Season](2022-season.md)
+- [2021 Season](2021-season.md)
+- [2020 Season](2020-season.md)
+- [2019 Season](2019-season.md)
 
-| Constructor | Primary Color | Secondary Color | Primary Hex | Secondary Hex |
-|------------|---------------|-----------------|-------------|---------------|
-| Mercedes | Turquoise | Black | #00D2BE | #000000 |
-| Red Bull Racing | Navy Blue | Yellow | #3671C6 | #FFB800 |
-| Ferrari | Red | Yellow | #DC0000 | #FFF200 |
-| McLaren | Papaya | Light Blue | #FF8700 | #47B2FF |
-| Aston Martin | British Racing Green | Lime | #00352F | #00594F |
-| Alpine | Pink | Blue | #FF87BC | #0090FF |
-| AlphaTauri | Navy Blue | White | #1E5BC6 | #FFFFFF |
-| Alfa Romeo | Burgundy | White | #981E32 | #FFFFFF |
-| Williams | Navy Blue | Light Blue | #041E42 | #00A0DE |
-| Haas | White | Red | #FFFFFF | #E6002B |
+## Features
 
-## 2022 Season
+- Primary colors from official team branding
+- Secondary colors as carefully selected shades of primary colors
+- Hex color codes for precise matching
+- Season-by-season organization
 
-| Constructor | Primary Color | Secondary Color | Primary Hex | Secondary Hex |
-|------------|---------------|-----------------|-------------|---------------|
-| Mercedes | Turquoise | Silver | #6CD3BF | #00A6B4 |
-| Red Bull Racing | Navy Blue | Red | #0600EF | #C00000 |
-| Ferrari | Red | Black | #DC0000 | #1E1E1E |
-| McLaren | Papaya | Light Blue | #FF8700 | #47B2FF |
-| Alpine | Pink | Blue | #FF87BC | #0090FF |
-| AlphaTauri | Navy Blue | White | #2B4562 | #FFFFFF |
-| Aston Martin | British Racing Green | Pink | #006F62 | #CEDC00 |
-| Williams | Navy Blue | Light Blue | #041E42 | #00A0DE |
-| Alfa Romeo | Burgundy | White | #981E32 | #FFFFFF |
-| Haas | White | Red | #FFFFFF | #E6002B |
+## Color Selection Principles
 
-## 2021 Season
+- Primary colors are taken directly from official F1 team branding
+- Secondary colors are created as lighter or darker shades (15-20% variation) of the primary colors
+- This approach ensures that:
+  - Both drivers from the same team can be distinguished in visualizations
+  - Team identity is maintained through consistent color families
+  - Data remains clear and readable
 
-| Constructor | Primary Color | Secondary Color | Primary Hex | Secondary Hex |
-|------------|---------------|-----------------|-------------|---------------|
-| Mercedes | Turquoise | Black | #00D2BE | #000000 |
-| Red Bull Racing | Navy Blue | Yellow | #0600EF | #FFB800 |
-| Ferrari | Red | Burgundy | #DC0000 | #7F1734 |
-| McLaren | Papaya | Light Blue | #FF8700 | #47B2FF |
-| Alpine | Blue | Red | #0090FF | #FF0000 |
-| AlphaTauri | Navy Blue | White | #2B4562 | #FFFFFF |
-| Aston Martin | British Racing Green | Pink | #006F62 | #CEDC00 |
-| Williams | Blue | White | #005AFF | #FFFFFF |
-| Alfa Romeo | Burgundy | White | #981E32 | #FFFFFF |
-| Haas | White | Red | #FFFFFF | #E6002B |
+## Usage
 
-## 2020 Season
+Each season's file contains:
+- Constructor names
+- Primary colors from official branding
+- Secondary colors (shades of primary)
+- Hex color codes
+- Additional notes and context
 
-| Constructor | Primary Color | Secondary Color | Primary Hex | Secondary Hex |
-|------------|---------------|-----------------|-------------|---------------|
-| Mercedes | Turquoise | Black | #00D2BE | #000000 |
-| Red Bull Racing | Navy Blue | Red | #0600EF | #CC1E4A |
-| Ferrari | Red | Black | #DC0000 | #1E1E1E |
-| McLaren | Papaya | Blue | #FF8700 | #1E5BC6 |
-| Racing Point | Pink | Magenta | #F596C8 | #CE4CA7 |
-| Renault | Yellow | Black | #FFF500 | #000000 |
-| AlphaTauri | Navy Blue | White | #2B4562 | #FFFFFF |
-| Williams | Light Blue | Dark Blue | #00A0DE | #041E42 |
-| Alfa Romeo | Burgundy | Dark Red | #981E32 | #700000 |
-| Haas | White | Gray | #FFFFFF | #B6BABD |
+## Notes
 
-## 2019 Season
+- Primary colors are sourced from official F1 graphics and team branding
+- Secondary colors are calculated as 15-20% lighter or darker variations of primary colors
+- Color codes are verified against official team assets where possible
+- Some teams may have slight variations in their colors throughout the season
 
-| Constructor | Primary Color | Secondary Color | Primary Hex | Secondary Hex |
-|------------|---------------|-----------------|-------------|---------------|
-| Mercedes | Turquoise | Silver | #00D2BE | #C0C0C0 |
-| Ferrari | Red | Black | #DC0000 | #1E1E1E |
-| Red Bull Racing | Navy Blue | Yellow | #1E41FF | #FFB800 |
-| McLaren | Papaya | Blue | #FF8700 | #1E5BC6 |
-| Renault | Yellow | Black | #FFF500 | #000000 |
-| Racing Point | Pink | Blue | #F596C8 | #0090FF |
-| Toro Rosso | Navy Blue | Red | #469BFF | #CC1E4A |
-| Alfa Romeo | Burgundy | White | #981E32 | #FFFFFF |
-| Haas | Black | Gray | #000000 | #B6BABD |
-| Williams | White | Light Blue | #FFFFFF | #00A0DE |
+## Contributing
 
-Notes:
-1. Primary colors are the main team colors used in official F1 graphics and team branding
-2. Secondary colors are complementary colors chosen to provide good contrast when visualizing team data
-3. Some teams have slight variations in their colors throughout the season - these are the most commonly used versions
-4. Colors are collected from official F1 graphics, team websites, and community resources
+Feel free to submit issues or pull requests if you notice any discrepancies or have suggestions for improvements.
+
+## License
+
+This collection is available for public use. Please credit this repository if you use it in your projects.
