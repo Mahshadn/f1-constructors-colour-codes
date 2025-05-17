@@ -1,9 +1,10 @@
 # Formula 1 Constructors Color Codes Collection
 
-A comprehensive collection of Formula 1 constructor team colors from 2019 to 2024 seasons. This repository includes both primary and secondary colors for each constructor, making it ideal for data visualization projects, web development, or any F1-related design work.
+A comprehensive collection of Formula 1 constructor team colors from 2019 to 2025 seasons. This repository includes both primary and secondary colors for each constructor, making it ideal for data visualization projects, web development, or any F1-related design work.
 
 ## Available Seasons
 
+- [2025 Season](2025-season.md)
 - [2024 Season](2024-season.md)
 - [2023 Season](2023-season.md)
 - [2022 Season](2022-season.md)
