@@ -1,14 +1,30 @@
-# Formula 1 Constructors Color Codes (2019-2024)
+# Formula 1 Constructors Color Codes (2019-2025)
 
-A comprehensive collection of Formula 1 team colors from 2019 to 2024 seasons, including both primary and secondary colors for each constructor.
+A comprehensive collection of Formula 1 team colors from 2019 to 2025 seasons, including both primary and secondary colors for each constructor.
 
 ## Quick Links
+- [2025 Season](#2025-season)
 - [2024 Season](#2024-season)
 - [2023 Season](#2023-season)
 - [2022 Season](#2022-season)
 - [2021 Season](#2021-season)
 - [2020 Season](#2020-season)
 - [2019 Season](#2019-season)
+
+## 2025 Season
+
+| Constructor | Primary Color | Secondary Color | Primary Hex | Secondary Hex |
+|------------|---------------|-----------------|-------------|---------------|
+| McLaren | Papaya | Darker Papaya | #FF8700 | #E67800 |
+| Ferrari | Deep Red | Darker Red | #E8002D | #C40026 |
+| Red Bull Racing | Navy Blue | Lighter Navy Blue | #3671C6 | #4C8BE3 |
+| Mercedes | Silver/Black | Turquoise | #000000 | #00A19B |
+| Aston Martin | British Racing Green | Lighter Racing Green | #00665E | #007D73 |
+| Alpine | Pink/Blue | Electric Blue | #FF63B8 | #0090FF |
+| Williams | Dark Navy Blue | Light Blue | #041E42 | #00A0DD |
+| Racing Bulls | White | Navy Blue | #FFFFFF | #1634CB |
+| Haas | White/Red | Red | #FFFFFF | #E6002B |
+| Kick Sauber | Green | Black | #00E701 | #000000 |
 
 ## 2024 Season
 
